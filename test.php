@@ -1,3 +1,3 @@
-<?php
+u<?php
 phpinfo();
-
+dffdg
